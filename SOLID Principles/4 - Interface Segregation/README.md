@@ -6,16 +6,16 @@ Let's solve the following problem - we have a fat interface like this:
 
 ```java
     public interface Employee {
-    	// CEO + managers + workers
-    	public void salary();
-    	// managers
-    	public void hire();
-    	public void train();
-    	// CEO + managers
-    	public void addBonus();
-    	// CEO
-    	public void makeDecisions();	
-    	public void addStocks();
+     // CEO + managers + workers
+     public void salary();
+     // managers
+     public void hire();
+     public void train();
+     // CEO + managers
+     public void addBonus();
+     // CEO
+     public void makeDecisions();
+     public void addStocks();
     }
 ```
 
