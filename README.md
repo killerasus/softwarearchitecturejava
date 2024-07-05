@@ -14,6 +14,11 @@ Exercises solutions for the "Software Architecture (SOLID) &amp; Design Patterns
 
 ### Creational
 
+1. Singleton pattern (no exercise)
+1. Factory pattern (no exercise)
+1. [Builder pattern](./Design%20Patterns/Creational%20Patterns/3%20-%20Builder%20Pattern/)
+1. Prototype pattern
+
 ### Behavioral
 
 ### Structural
