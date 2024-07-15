@@ -21,4 +21,6 @@ Exercises solutions for the "Software Architecture (SOLID) &amp; Design Patterns
 
 ### Behavioral
 
+1. [Strategy Pattern](./Design%20Patterns/Behavioral%20Patterns/1%20-%20Strategy%20Pattern/)
+
 ### Structural
