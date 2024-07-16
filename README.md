@@ -17,10 +17,13 @@ Exercises solutions for the "Software Architecture (SOLID) &amp; Design Patterns
 1. Singleton pattern (no exercise)
 1. Factory pattern (no exercise)
 1. [Builder pattern](./Design%20Patterns/Creational%20Patterns/3%20-%20Builder%20Pattern/)
-1. Prototype pattern
+1. Prototype pattern (no exercise)
 
 ### Behavioral
 
 1. [Strategy Pattern](./Design%20Patterns/Behavioral%20Patterns/1%20-%20Strategy%20Pattern/)
+1. [Observer Pattern](./Design%20Patterns/Behavioral%20Patterns/2%20-%20Observer%20Pattern/)
+1. Command Pattern (no exercise)
+1. Iterator Pattern (no exercise)
 
 ### Structural
