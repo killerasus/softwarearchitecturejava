@@ -26,5 +26,7 @@ Exercises solutions for the "Software Architecture (SOLID) &amp; Design Patterns
 1. Command Pattern (no exercise)
 1. Iterator Pattern (no exercise)
 1. [Template Pattern](./Design%20Patterns/Behavioral%20Patterns/5%20-%20Template%20Pattern/)
+1. Null Object Pattern (no exercise)
+1. [Visitor Pattern](./Design%20Patterns/Behavioral%20Patterns/7%20-%20Visitor%20Pattern/)
 
 ### Structural
