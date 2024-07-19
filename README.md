@@ -30,3 +30,9 @@ Exercises solutions for the "Software Architecture (SOLID) &amp; Design Patterns
 1. [Visitor Pattern](./Design%20Patterns/Behavioral%20Patterns/7%20-%20Visitor%20Pattern/)
 
 ### Structural
+
+1. Decorator Pattern (no exercise)
+1. Façade Pattern (no exercise)
+1. Flyweight Pattern (no exercise)
+1. [Adapter Pattern](./Design%20Patterns/Structural%20Patterns/4%20-%20Adapter%20Pattern/)
+1. Model-View-Controller Pattern (no exercise)
